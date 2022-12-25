@@ -1,0 +1,15 @@
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\bin\Debug\net6.0\RomanTranslator.exe
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\bin\Debug\net6.0\RomanTranslator.deps.json
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\bin\Debug\net6.0\RomanTranslator.runtimeconfig.json
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\bin\Debug\net6.0\RomanTranslator.dll
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\bin\Debug\net6.0\RomanTranslator.pdb
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\RomanTranslator.csproj.AssemblyReference.cache
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\RomanTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\RomanTranslator.AssemblyInfoInputs.cache
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\RomanTranslator.AssemblyInfo.cs
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\RomanTranslator.csproj.CoreCompileInputs.cache
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\RomanTranslator.dll
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\refint\RomanTranslator.dll
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\RomanTranslator.pdb
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\RomanTranslator.genruntimeconfig.cache
+C:\Users\prbrq\Desktop\RomanTranslator\RomanTranslator\obj\Debug\net6.0\ref\RomanTranslator.dll
